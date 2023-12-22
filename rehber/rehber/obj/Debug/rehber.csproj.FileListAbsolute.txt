@@ -1,0 +1,30 @@
+C:\Users\KARAHAN-HOUSE\source\repos\rehber\rehber\bin\Debug\rehber.exe.config
+C:\Users\KARAHAN-HOUSE\source\repos\rehber\rehber\bin\Debug\rehber.exe
+C:\Users\KARAHAN-HOUSE\source\repos\rehber\rehber\bin\Debug\rehber.pdb
+C:\Users\KARAHAN-HOUSE\source\repos\rehber\rehber\obj\Debug\rehber.csproj.AssemblyReference.cache
+C:\Users\KARAHAN-HOUSE\source\repos\rehber\rehber\obj\Debug\rehber.csproj.SuggestedBindingRedirects.cache
+C:\Users\KARAHAN-HOUSE\source\repos\rehber\rehber\obj\Debug\rehber.Form1.resources
+C:\Users\KARAHAN-HOUSE\source\repos\rehber\rehber\obj\Debug\rehber.Properties.Resources.resources
+C:\Users\KARAHAN-HOUSE\source\repos\rehber\rehber\obj\Debug\rehber.csproj.GenerateResource.cache
+C:\Users\KARAHAN-HOUSE\source\repos\rehber\rehber\obj\Debug\rehber.csproj.CoreCompileInputs.cache
+C:\Users\KARAHAN-HOUSE\source\repos\rehber\rehber\obj\Debug\rehber.exe
+C:\Users\KARAHAN-HOUSE\source\repos\rehber\rehber\obj\Debug\rehber.pdb
+C:\Users\KARAHAN-HOUSE\source\repos\rehber\rehber\obj\Debug\rehber.ekle.resources
+C:\Users\KARAHAN-HOUSE\source\repos\rehber\rehber\obj\Debug\rehber.sil.resources
+C:\Users\KARAHAN-HOUSE\source\repos\rehber\rehber\obj\Debug\rehber.guncelle.resources
+C:\Users\KARAHAN-HOUSE\source\repos\rehber\rehber\obj\Debug\rehber.listele.resources
+C:\Users\KARAHAN-HOUSE\Desktop\-\üniversite 2.sınıf\nesne tabanlı\ornekler\rehber\rehber\bin\Debug\rehber.exe.config
+C:\Users\KARAHAN-HOUSE\Desktop\-\üniversite 2.sınıf\nesne tabanlı\ornekler\rehber\rehber\bin\Debug\rehber.exe
+C:\Users\KARAHAN-HOUSE\Desktop\-\üniversite 2.sınıf\nesne tabanlı\ornekler\rehber\rehber\bin\Debug\rehber.pdb
+C:\Users\KARAHAN-HOUSE\Desktop\-\üniversite 2.sınıf\nesne tabanlı\ornekler\rehber\rehber\obj\Debug\rehber.csproj.AssemblyReference.cache
+C:\Users\KARAHAN-HOUSE\Desktop\-\üniversite 2.sınıf\nesne tabanlı\ornekler\rehber\rehber\obj\Debug\rehber.csproj.SuggestedBindingRedirects.cache
+C:\Users\KARAHAN-HOUSE\Desktop\-\üniversite 2.sınıf\nesne tabanlı\ornekler\rehber\rehber\obj\Debug\rehber.ekle.resources
+C:\Users\KARAHAN-HOUSE\Desktop\-\üniversite 2.sınıf\nesne tabanlı\ornekler\rehber\rehber\obj\Debug\rehber.Form1.resources
+C:\Users\KARAHAN-HOUSE\Desktop\-\üniversite 2.sınıf\nesne tabanlı\ornekler\rehber\rehber\obj\Debug\rehber.guncelle.resources
+C:\Users\KARAHAN-HOUSE\Desktop\-\üniversite 2.sınıf\nesne tabanlı\ornekler\rehber\rehber\obj\Debug\rehber.listele.resources
+C:\Users\KARAHAN-HOUSE\Desktop\-\üniversite 2.sınıf\nesne tabanlı\ornekler\rehber\rehber\obj\Debug\rehber.Properties.Resources.resources
+C:\Users\KARAHAN-HOUSE\Desktop\-\üniversite 2.sınıf\nesne tabanlı\ornekler\rehber\rehber\obj\Debug\rehber.sil.resources
+C:\Users\KARAHAN-HOUSE\Desktop\-\üniversite 2.sınıf\nesne tabanlı\ornekler\rehber\rehber\obj\Debug\rehber.csproj.GenerateResource.cache
+C:\Users\KARAHAN-HOUSE\Desktop\-\üniversite 2.sınıf\nesne tabanlı\ornekler\rehber\rehber\obj\Debug\rehber.csproj.CoreCompileInputs.cache
+C:\Users\KARAHAN-HOUSE\Desktop\-\üniversite 2.sınıf\nesne tabanlı\ornekler\rehber\rehber\obj\Debug\rehber.exe
+C:\Users\KARAHAN-HOUSE\Desktop\-\üniversite 2.sınıf\nesne tabanlı\ornekler\rehber\rehber\obj\Debug\rehber.pdb
